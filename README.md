@@ -1,2 +1,6 @@
 # hello-world
-learning to create a repository
+
+Hello people!
+
+My name is Gabriel, I'm from brazil.
+I do not understand much English, but I will try to do my best. :)
